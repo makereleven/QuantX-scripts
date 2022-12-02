@@ -4,7 +4,7 @@
 1. 推荐QX教程：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
 
 # 配置说明
-Quant
+在各个文件夹中有单独README.md说明如何使用脚本
 
 
 ### 如果对客官有用的话，这里请我喝杯奶茶~🙏感谢🙏 

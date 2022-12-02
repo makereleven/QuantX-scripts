@@ -9,7 +9,7 @@ app.nio.com
 ^https:\/\/app\.nio\.com\/api\/1\/app\/daily_checkin url script-request-header https://raw.githubusercontent.com/makereleven/QuantX-scripts/master/nio/nio.cookie.js
 
 [task_local]
-1 0 * * * https://raw.githubusercontent.com/makereleven/QuantX-scripts/master/nio/nio.js
+1 0 * * * https://raw.githubusercontent.com/makereleven/QuantX-scripts/master/nio/nio.js, tag=蔚来, img-url=https://raw.githubusercontent.com/makereleven/QuantX-scripts/master/nio/nio.png, enabled=true
 ```
 
 ## 说明
