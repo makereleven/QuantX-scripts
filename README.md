@@ -11,11 +11,9 @@ Quant
 <table border="0">
 <tr>
     <th>微信赞助码</th>
-    <th>支付宝赞助码</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg"></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg"></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/makereleven/QuantX-scripts@main/assets/wx-qingwohenaicha.jpg"></td>
   </tr>
 <tr>
 
